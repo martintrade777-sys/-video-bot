@@ -1,2 +1,7 @@
-python-telegram-bot==20.7
-asyncio
+groq
+openai-whisper
+python-dotenv
+requests
+watchdog
+moviepy==1.0.3
+pillow

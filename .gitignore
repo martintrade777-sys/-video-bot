@@ -1,0 +1,9 @@
+.env
+.env.save
+.DS_Store
+__pycache__/
+*.pyc
+output_videos/
+downloads/
+watcher.log
+watcher_error.log
